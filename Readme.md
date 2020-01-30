@@ -1,6 +1,8 @@
 # Jay Shah
 
-![Family](images/jay.jpg "Myself")
+![Jay](images/jay2.jpg "Myself")
+
+![Myself](images/jay.jpg "Myself")
 
 ## Where are you from?
 
