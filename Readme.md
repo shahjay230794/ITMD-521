@@ -16,4 +16,22 @@ Also fond of indoor sports like chess,carrom where i excelled during my high-sch
 
 ## Git-IT Tutorial Badge
 
-![Git Tutorial](images/badge.jpg "Result")
+![Git Tutorial](images/badge.JPG "Result")
+
+## Tutorial Screenshots
+
+![Git Tutorial](images/Choco_Version_SS.png "Version Screenshot")
+
+![Git Tutorial](images/Git_version_SS.png "Version Screenshot")
+
+![Git Tutorial](images/NameEmail_config_SS.png "Configuration Screenshot")
+
+![Git Tutorial](images/PackageMgr_version_SS.png "Version Screenshot")
+
+![Git Tutorial](images/PowershellCore6_output_SS.png "Output Screenshot")
+
+![Git Tutorial](images/VagrantPacker_version_SS.png "Version Screenshot")
+
+![Git Tutorial](images/VirtualBox_version_SS.png "Version Screenshot")
+
+![Git Tutorial](images/VisualStudioCode_version_SS.png "Version Screenshot")
