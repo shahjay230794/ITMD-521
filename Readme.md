@@ -16,7 +16,7 @@ Also fond of indoor sports like chess,carrom where i excelled during my high-sch
 
 ## Git-IT Tutorial Badge
 
-![Git Tutorial](images/badge.JPG "Result")
+![Git Tutorial](images/badge.JPG "Git Tutorial Result")
 
 ## Tutorial Screenshots
 
