@@ -30,7 +30,7 @@ Also fond of indoor sports like chess,carrom where i excelled during my high-sch
 
 ![Git Tutorial](images/PackageMgr_version_SS.PNG "Version Screenshot")
 
-![Git Tutorial](images/PowershellCore6_output_SS.PNG "Output Screenshot")
+![Git Tutorial](images/PowerShellCore6_output_SS.PNG "Output Screenshot")
 
 ![Git Tutorial](images/VagrantPacker_version_SS.PNG "Version Screenshot")
 
