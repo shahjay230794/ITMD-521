@@ -37,3 +37,5 @@ Also fond of indoor sports like chess,carrom where i excelled during my high-sch
 ![Git Tutorial](images/VirtualBox_version_SS.PNG "Version Screenshot")
 
 ![Git Tutorial](images/VisualStudioCode_version_SS.PNG "Version Screenshot")
+
+![Git Tutorial](images/ubuntu_install_output.JPG "Version Screenshot")
