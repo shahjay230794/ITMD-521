@@ -35,7 +35,7 @@ df2 = df.withColumn('Weather Station', df['value'].substr(5, 6)) \
 print(df2.show(10))
 
 # https://spark.apache.org/docs/latest/api/python/pyspark.sql.html#pyspark.sql.DataFrame.withColumnRenamed
-#dfnew = df.withColumnRenamed(' windDirection', 'windDirection')
+dfnew = df2.withColumnRenamed('Weather Station', 'WStation')
 
-df2.write.format("parquet").mode("overwrite").save("hdfs://namenode/output/itmd-521/jks/1998-show-10.parquet")
-df2.write.format("csv").mode("overwrite").save("hdfs://namenode/output/itmd-521/jks/1998-show-10.csv")
+dfnew.write.format("parquet").mode("overwrite").save("hdfs://namenode/output/itmd-521/jks/1998-show-10.parquet")
+dfnew.write.format("csv").mode("overwrite").save("hdfs://namenode/output/itmd-521/jks/1998-show-10.csv")
