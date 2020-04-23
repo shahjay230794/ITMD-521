@@ -37,5 +37,5 @@ print(df2.show(10))
 # https://spark.apache.org/docs/latest/api/python/pyspark.sql.html#pyspark.sql.DataFrame.withColumnRenamed
 #dfnew = df.withColumnRenamed(' windDirection', 'windDirection')
 
-dfnew.write.format("parquet").mode("overwrite").save("hdfs://namenode/output/itmd-521/jks/1998-show-10.parquet")
-dfnew.write.format("parquet").mode("overwrite").save("hdfs://namenode/output/itmd-521/jks/1998-show-10.csv")
+df2.write.format("parquet").mode("overwrite").save("hdfs://namenode/output/itmd-521/jks/1998-show-10.parquet")
+df2.write.format("csv").mode("overwrite").save("hdfs://namenode/output/itmd-521/jks/1998-show-10.csv")
