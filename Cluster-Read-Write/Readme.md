@@ -1,11 +1,11 @@
 # ITMD-521 Read & Write Assignment
 
 ## Cluster Command
-Command used to generate csv file
+Command used to generate csv file :
 ```bash
 spark-submit --verbose --name jks-read-write-csv-1998.py --master yarn --deploy-mode cluster jks-read-write-csv-1998.py
 ```
-Command used to generate parquet file
+Command used to generate parquet file :
 ```bash
 spark-submit --verbose --name jks-read-write-parquet-1998.py --master yarn --deploy-mode cluster jks-read-write-parquet-1998.py
 ```
